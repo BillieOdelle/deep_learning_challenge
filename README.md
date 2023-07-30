@@ -46,7 +46,9 @@ The fourth model used the same architecture as the second model but trained for 
 Model Performance:
 
 Model 2: Loss: 0.5599, Accuracy: 0.7323
+
 Model 3: Loss: 0.5598, Accuracy: 0.7325
+
 Model 4: Loss: 0.5583, Accuracy: 0.7343
 
 **Summary:**
